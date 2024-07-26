@@ -40,7 +40,7 @@ Our project focuses on building an end-to-end system to automatically crawl Face
   - Adjust paths in python files
  3. Cd to folder and run script: python app.py
  4. Simply enter the Facebook URL post, Account information and choose Featch and analyze
-
+ The result will like: ![rs](rs.png)
 
   ## Contact:    
   - LinkedIn: https://www.linkedin.com/in/phutrungnguyen283/ 
